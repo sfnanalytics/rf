@@ -1,6 +1,7 @@
 Need to install PIP and Python to use this script 
 
 Type "python" into a Command Prompt window to install Python
+(curl https://www.python.org/ftp/python/3.7.0/python-3.7.0-embed-amd64.zip)
 
 Installing PIP On Windows
 Step 1: Download PIP get-pip.py
