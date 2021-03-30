@@ -11,10 +11,10 @@ Type in cmd.exe and hit enter.
 (curl https://www.python.org/ftp/python/3.7.0/python-3.7.0-embed-amd64.zip)
 
 
-Step 1: Download PIP get-pip.py
+Step 1: Download PIP get-pip.py. Enter the following command in a Command Prompt window:
 (curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py)
 
-Step 2: To install PIP type in the following:
+Step 2: To install PIP type in the following in a Command Prompt window:
 python get-pip.py
 
 PIP installation should start. If the file isn’t found, double-check the path to the folder where you saved the file.
