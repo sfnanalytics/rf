@@ -1,4 +1,4 @@
-Notes: 'CD' command allows you to change into specific directories.
+Notes: 'CD' command allows you to change into specific directories. Example: 'CD ~' command gets you to the home folder where you will start your installs
 
 Need to install PIP and Python to use this script 
 Type "python" into a Command Prompt window to install Python
