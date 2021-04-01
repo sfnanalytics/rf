@@ -28,7 +28,7 @@ python setup.py install --home=~
 
 RUNNING THE PYTHON SCRIPT:
 
-Step 1: Download zip from GitHub
+Step 1: Download zip from GitHub (Green "Download Code" box in repo home)
 
 Step 2: Extract files from zip using File Explorer
 
