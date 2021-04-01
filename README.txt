@@ -23,3 +23,19 @@ Step 3: Download zip from GitHub
 
 Step 4: Resolve dependency issues: 'CD' into setup.py location, and run the following command:
 python setup.py install --home=~
+
+--------------------------------------------------------------------------------------------------------------
+
+RUNNING THE PYTHON SCRIPT:
+
+Step 1: Download zip from GitHub
+
+Step 2: Extract files from zip using File Explorer
+
+Step 3: Run the Python command in a Command Prompt window
+'python C:\Users\<YOUR USER NAME>\Downloads\rf-main\rf-main\src\recency_frequency.py' 
+
+Once complete, find the MembershipRecencyFrequency_w_Product.csv in the src folder (C:\Users\<YOUR USER NAME>\Downloads\rf-main\rf-main\src>)
+
+
+
