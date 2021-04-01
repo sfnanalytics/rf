@@ -23,5 +23,3 @@ Step 3: Download zip from GitHub
 
 Step 4: Resolve dependency issues: 'CD' into setup.py location, and run the following command:
 python setup.py install --home=~
-
-duplicates in final excel file
